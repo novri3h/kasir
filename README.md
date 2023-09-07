@@ -1,5 +1,4 @@
 # php-e-kasir
 Aplikasi Kasir menggunakan PHP
 
-![POS Kasir](https://github.com/novri3h/php-e-kasir/assets/25641359/ff5ac866-714d-4ae3-b9fc-e4a83123ccca)
-
+![Mockup 19](https://github.com/novri3h/php-e-kasir/assets/25641359/6ba017f1-7e26-4618-ad1d-dce42ac9bb7e)
