@@ -3,9 +3,9 @@
 
 Aplikasi ini di buat untuk memudahkan UMKM dalam memanage database pemasukan, pengeluaran dan Stock barang.
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif_studio)
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/novri3h/php-e-kasir/graphs/commit-activity)
 
 ## Features Aplikasi e-Kasir
 --> Kelola
@@ -121,5 +121,10 @@ MIT
    [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
    [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
 
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
+
 ## Credit
-> Tri Hartono [My Blog](https://bit.ly/M-UMKM)
+> 𝕋𝕣𝕚 𝕙𝕒𝕣𝕥𝕠𝕟𝕠
+
+
+[![My Blogs](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://bit.ly/M-UMKM) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/semut.nunggings/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nadhif.studio/) [![Tik Tok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@nadhif.studio) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/@ThE_dUduLs/)
