@@ -67,7 +67,7 @@ Login username : root
 
 Buat database baru dengan nama db_e_kasir, kemudian klik Import database.
 
-Buka web enkripsi data pada browser dengan url:
+Buka web e-kasir pada browser dengan url:
 ```sh
 http://localhost/e-kasir
 ```
