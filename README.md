@@ -1,7 +1,8 @@
 # Aplikasi e-Kasir
 ![Mockup 19](https://github.com/novri3h/php-e-kasir/assets/25641359/6ba017f1-7e26-4618-ad1d-dce42ac9bb7e)
 
-Aplikasi ini di buat untuk memudahkan UMKM dalam memanage database pemasukan, pengeluaran dan Stock barang.
+<div align="justify">Aplikasi ini di buat untuk memudahkan UMKM dalam memanage database pemasukan, pengeluaran dan Stock barang.</div>
+<br>
 
 [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif_studio)
 
@@ -34,16 +35,24 @@ Aplikasi ini di buat untuk memudahkan UMKM dalam memanage database pemasukan, pe
 
 Aplikasi ini dibangun dengan menggunakan:
 
-- [Pencil project](https://pencil.evolus.vn) - Aplikasi Pencil Project merupakan aplikasi open source GUI Prototyping yang digunakan untuk menggambar mockup dan mendesain tampilan UI.
-- [XAMPP](https://www.apachefriends.org/download.html) - Aplikasi XAMPP merupakan sebuah paket perangkat lunak (software) komputer yang berfungsi sebagai server lokal untuk menampung berbagai jenis data website yang sedang dalam proses pengembangan.
-- [Visual Studio Code](https://code.visualstudio.com/download) - Aplikasi visualstudio code adalah editor kode sumber komersial. Ini secara native mendukung banyak bahasa pemrograman dan bahasa markup. Pengguna dapat memperluas fungsinya dengan plugin, biasanya dibuat dan dipelihara oleh komunitas di bawah lisensi perangkat lunak bebas.
-- [Google Chrome](https://www.google.com/chrome) - Aplikasi Google Chrome adalah browser web cepat yang tersedia tanpa biaya yang merupakan tools penting dalam membuat suatu halaman website, dsb.
-- [node.js] - Node.js adalah runtime environment untuk JavaScript yang bersifat open-source dan cross-platform. Dengan Node.js kita dapat menjalankan kode JavaScript di mana pun, tidak hanya terbatas pada lingkungan browser.
-- [HTML] - Hypertext Markup Language, yaitu bahasa markup standar untuk membuat dan menyusun halaman dan aplikasi web.
-- [CSS] - Cascading Style Sheets yang berguna untuk menyederhanakan proses pembuatan website dengan mengatur elemen yang tertulis di bahasa markup.
-- [PHP] - PHP (Hypertext Preprocessor) adalah sebuah bahasa pemrograman server side scripting yang bersifat open source.
-- [Bootstrap] - Bootstrap merupakan sebuah library atau kumpulan dari berbagai fungsi yang terdapat di framework CSS dan dibuat secara khusus di bagian pengembangan pada front-end website.
-- [jQuery] - jQuery adalah library JavaScript open-source yang di-minify dan dibuat untuk operasi JavaScript yang disederhanakan. Anda bisa menggunakan jQuery untuk coding serangkaian perintah dengan cepat, yang pada dasarnya akan memerlukan waktu lebih lama apabila menggunakan kode HTML.
+- [Pencil project](https://pencil.evolus.vn)<div align="justify">Aplikasi Pencil Project merupakan aplikasi open source GUI Prototyping yang digunakan untuk 
+  menggambar mockup dan mendesain tampilan UI.</div>
+- [XAMPP](https://www.apachefriends.org/download.html)<div align="justify">Aplikasi XAMPP merupakan sebuah paket perangkat lunak (software) komputer yang berfungsi 
+  sebagai server lokal untuk menampung berbagai jenis data website yang sedang dalam proses pengembangan.</div>
+- [Visual Studio Code](https://code.visualstudio.com/download)<div align="justify">Aplikasi visualstudio code adalah editor kode sumber komersial. Ini secara native 
+  mendukung banyak bahasa pemrograman dan bahasa markup. Pengguna dapat memperluas fungsinya dengan plugin, biasanya dibuat dan dipelihara oleh komunitas di bawah 
+  lisensi perangkat lunak bebas.</div>
+- [Google Chrome](https://www.google.com/chrome)<div align="justify">Aplikasi Google Chrome adalah browser web cepat yang tersedia tanpa biaya yang merupakan tools 
+  penting dalam membuat suatu halaman website, dsb.</div>
+- [node.js]<div align="justify">Node.js adalah runtime environment untuk JavaScript yang bersifat open-source dan cross-platform. Dengan Node.js kita dapat 
+  menjalankan kode JavaScript di mana pun, tidak hanya terbatas pada lingkungan browser.</div>
+- [HTML]<div align="justify">Hypertext Markup Language, yaitu bahasa markup standar untuk membuat dan menyusun halaman dan aplikasi web.</div>
+- [CSS]<div align="justify">Cascading Style Sheets yang berguna untuk menyederhanakan proses pembuatan website dengan mengatur elemen yang tertulis di bahasa markup.</div>
+- [PHP]<div align="justify">PHP (Hypertext Preprocessor) adalah sebuah bahasa pemrograman server side scripting yang bersifat open source.</div>
+- [Bootstrap] - Bootstrap merupakan sebuah library atau kumpulan dari berbagai fungsi yang terdapat di framework CSS dan dibuat secara khusus di bagian pengembangan 
+  pada front-end website.</div>
+- [jQuery]<div align="justify">jQuery adalah library JavaScript open-source yang di-minify dan dibuat untuk operasi JavaScript yang disederhanakan. Anda bisa 
+  menggunakan jQuery untuk coding serangkaian perintah dengan cepat, yang pada dasarnya akan memerlukan waktu lebih lama apabila menggunakan kode HTML.</div>
 
 ## Requirement
 
@@ -58,16 +67,15 @@ Pindahkan Folder e-kasir ke dalam folder:
 c:\Xampp\htdocs\
 ```
 
-Start apache dan Mysql pada XAMPP
-Akses pada browser dengan url:
+<div align="justify">Start apache dan Mysql pada XAMPP, Akses pada browser dengan url:</div>
 ```sh
 http://localhost/phpmyadmin
 ```
 Login username : root
 
-Buat database baru dengan nama db_e_kasir, kemudian klik Import database.
+<div align="justify">Buat database baru dengan nama db_e_kasir, kemudian klik Import database.</div>
 
-Buka web e-kasir pada browser dengan url:
+<div align="justify">Buka web e-kasir pada browser dengan url:</div>
 ```sh
 http://localhost/e-kasir
 ```
