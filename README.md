@@ -68,14 +68,17 @@ c:\Xampp\htdocs\
 ```
 
 <div align="justify">Start apache dan Mysql pada XAMPP, Akses pada browser dengan url:</div>
+
 ```sh
 http://localhost/phpmyadmin
 ```
 Login username : root
 
 <div align="justify">Buat database baru dengan nama db_e_kasir, kemudian klik Import database.</div>
+<br>
 
 <div align="justify">Buka web e-kasir pada browser dengan url:</div>
+
 ```sh
 http://localhost/e-kasir
 ```
